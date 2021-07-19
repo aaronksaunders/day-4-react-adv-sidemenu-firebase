@@ -1,0 +1,7 @@
+{
+  "name": "tabstarter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
